@@ -69,8 +69,8 @@ The following steps were performed:
 ---
 
 ## 📂 Repository Structure
----
 
+---
 API-Security-Analysis/
 │── Screenshots/
 │── Report.pdf
@@ -79,6 +79,7 @@ API-Security-Analysis/
 
 ---
 
+---
 ## 📸 Screenshots
 
 Screenshots of API requests and responses are included in the **Screenshots** folder.
