@@ -69,17 +69,6 @@ The following steps were performed:
 
 ## 📂 Repository Structure
 
-API-Security-Analysis/
-├── Screenshots/
-│ ├── postman-no-auth-test.png
-│ ├── broken-auth-response.png
-│ └── rate-limit-missing.png
-├── Report.pdf
-├── Recommendations-and-Attack-Flow-Analysis.pdf
-└── README.md
-
-text
-
 ---
 API-Security-Analysis/
 │── Screenshots/
@@ -105,4 +94,15 @@ It highlights the importance of proper authentication, authorization, and data p
 
 ## 👨‍💻 Prepared By
 Vimal Raj R
+
+## 📂 Repository Structure
+API-Security-Analysis/
+├── Screenshots/
+│ ├── postman-no-auth.png
+│ ├── broken-auth-response.png
+│ └── rate-limit-test.png
+├── Report.pdf
+├── Recommendations-and-Attack-Flow-Analysis.pdf
+└── README.md
+
 
