@@ -1,7 +1,6 @@
 # 🔐 API Security Risk Analysis
 
 ## 📌 Project Overview
-This project is part of the Cyber Security Internship (Future Interns 2026).
 
 The objective of this project is to analyze a public API and identify common security risks such as:
 - Missing authentication
