@@ -78,7 +78,6 @@ API-Security-Analysis/
 │── README.md
 
 ---
----
 
 ## 📸 Screenshots
 
