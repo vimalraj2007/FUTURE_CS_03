@@ -69,6 +69,17 @@ The following steps were performed:
 
 ## 📂 Repository Structure
 
+API-Security-Analysis/
+├── Screenshots/
+│ ├── postman-no-auth-test.png
+│ ├── broken-auth-response.png
+│ └── rate-limit-missing.png
+├── Report.pdf
+├── Recommendations-and-Attack-Flow-Analysis.pdf
+└── README.md
+
+text
+
 ---
 API-Security-Analysis/
 │── Screenshots/
