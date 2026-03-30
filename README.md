@@ -70,12 +70,15 @@ The following steps were performed:
 ## 📂 Repository Structure
 
 ---
+## 📁 Repository Structure
+
+```
 API-Security-Analysis/
 ├── Screenshots/
 ├── Report.pdf
 ├── Recommendations-and-Attack-Flow-Analysis.pdf
 └── README.md
----
+```
 
 ---
 ## 📸 Screenshots
